@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://satiablekustard.github.io/sitemap.xml.gz
